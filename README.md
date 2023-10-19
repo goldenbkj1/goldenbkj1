@@ -1,3 +1,4 @@
+![logo]([https://github.com/goldenbkj1/goldenbkj1/blob/main/banner.png](https://github.com/goldenbkj1/goldenbkj1/blob/main/banner.png))
 <h1 align="center">Hi 👋, I'm Golden Gupta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
